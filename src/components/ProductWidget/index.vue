@@ -25,13 +25,7 @@
                 impact with your customers. Turn it off here if you do not want the badge to link to
                 it.
               </p>
-              <a
-                class="typo-link text-primary"
-                href="https://vuejs.org/guide/introduction.html"
-                target="_blank"
-              >
-                View Public Profile
-              </a>
+              <a class="typo-link text-primary" href="#" target="_blank"> View Public Profile </a>
             </div>
           </template>
         </Tooltip>
